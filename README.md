@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lydiaroyce
 - 👀 I’m interested in front end development and UI/UX design.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me lydia.e.royce@gmail.com
 
 <!---
